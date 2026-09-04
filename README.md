@@ -1,6 +1,6 @@
 ## Hi, I'm **Abdullah**! <img src="https://media.tenor.com/G-txXgLB0FQAAAAj/squirtle-laugh.gif" width="20"/>
 
-I'm a University of Toronto<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1280px-Utoronto_coa.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="20"/>undergraduate studying Computer Science and Mathematical Sciences, working toward a career in software engineering.
+I'm a [University of Toronto](utoronto.ca)<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1280px-Utoronto_coa.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" width="20"/>undergraduate studying Computer Science and Mathematical Sciences, working toward a career in software engineering.
 
 I'm currently focused on building practical software projects and strengthening my experience with TypeScript, React, Electron, networking, and desktop/web application development.
 
