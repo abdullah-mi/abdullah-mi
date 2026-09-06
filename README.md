@@ -11,6 +11,7 @@ I'm currently focused on building practical software projects and strengthening 
 
 ![Python](https://img.shields.io/badge/Python-3777ab?style=flat&logo=python&logoColor=white&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat&logo=openjdk&logoColor=white&labelColor=black)
+![C](https://img.shields.io/badge/C-00599c?style=flat&logo=c&logoColor=white&labelColor=black)
 ![C#](https://img.shields.io/badge/C%23-C%23-7456dd?style=flat&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=black)
