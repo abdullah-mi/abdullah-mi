@@ -30,18 +30,20 @@ I'm currently focused on building practical software projects and strengthening 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-fc801d?style=flat&logo=intellijidea&logoColor=black)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1ada7a?style=flat&logo=pycharm&logoColor=black)
 
-
-## Current Project
-
+## Projects
+### Current Project:
 ### [Copyrade](https://github.com/abdullah-mi/Copyrade) - *Your clipboard comrade*
 
 I'm building **[Copyrade](https://github.com/abdullah-mi/Copyrade)**, a local-first application for securely sending clipboard content from mobile devices directly to the Windows clipboard.
 
 The project is focused on cross-device communication, peer-to-peer networking, desktop integration, and a seamless mobile-to-Windows experience.
 
-**Planned stack:** TypeScript · React · Electron · WebRTC
+*Planned stack:* TypeScript · React · Electron · WebRTC
 
 >  Currently in development
+
+### Other projects: [Unix Shell](https://github.com/abdullah-mi/mysh), Paint Application, Huffman File Compression.
+> Private repos; available upon request 
 
 ## Experience
 
