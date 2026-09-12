@@ -42,7 +42,7 @@ The project is focused on cross-device communication, peer-to-peer networking, d
 
 >  Currently in development
 
-### Other projects: [Unix Shell](https://github.com/abdullah-mi/mysh), Paint Application, [Huffman File Compression](https://github.com/abdullah-mi/Huffman-Compression/tree/main).
+### Other projects: [Unix Shell](https://github.com/abdullah-mi/mysh), [Paint Application](https://github.com/abdullah-mi/Paint-Application), [Huffman File Compression](https://github.com/abdullah-mi/Huffman-Compression/tree/main), [Othello](https://github.com/abdullah-mi/othello)
 > Private repos; available upon request 
 
 ## Experience
